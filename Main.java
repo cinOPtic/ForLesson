@@ -4,7 +4,8 @@ import java.awt.event.*;
 import java.awt.event.ActionListener;
 
 public class Main {
-    static double d=;
+    static double d=0; //круто
+
     static double n=1;
     static double h=10;
     static double k=1;
